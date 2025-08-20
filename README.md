@@ -2,13 +2,22 @@
 
 ###
 
-# Hi there, I'm Muhammad Abubakr 👋
-I'm a passionate **Front-end Software Engineer** from Lahore, Pakistan 🇵🇰  <br>I love crafting beautiful UIs and solving real-world problems with code.
+# 👋 Hi, I'm Muhammad Abubakr
 
-## 🌱 Currently Exploring
-- GSAP and advanced Three.js animations
-- AI integrations
-- Gatsby.js
+Frontend isn’t just code—it’s the layer where your brand meets your users.  
+I build fast, accessible, and scalable web experiences using modern tools and smart architecture.
+
+## 🚀 What I Do
+- React.js, Next.js, TypeScript, Tailwind CSS
+- CMS builds with WordPress, Webflow, Framer, Shopify
+- Animations via Framer Motion, GSAP, Three.js
+- API integrations, SSR, SEO, and accessibility baked in
+- Deployment-ready workflows with GitHub, Vercel, Netlify
+
+## 🎯 Philosophy
+I don’t overload projects—I build with purpose.  
+Every tool I use is chosen to make your product perform better and feel complete.
+
 
 ###
 
@@ -75,7 +84,6 @@ I'm a passionate **Front-end Software Engineer** from Lahore, Pakistan 🇵🇰 
 </div>
 
 ###
-## 📫 Reach Me At
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mabubakr1/" target="_blank">
