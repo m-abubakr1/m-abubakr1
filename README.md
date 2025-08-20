@@ -4,13 +4,11 @@
 
 # Hi there, I'm Muhammad Abubakr 👋
 I'm a passionate **Front-end Software Engineer** from Lahore, Pakistan 🇵🇰  <br>I love crafting beautiful UIs and solving real-world problems with code.
-## 🚀 Projects I'm proud of
-- 🔐 [Ceaser Cipher in JavaScript](https://github.com/m-abubakr1/Ceaser-Cipher-in-Javascript)<br>- 🧠 [BrainWave AI Landing Page](https://github.com/m-abubakr1/BrainWave-AI-Landing-Page)
-- 💼 [TecData Landing Page](https://github.com/m-abubakr1/Tecdata)
+
 ## 🌱 Currently Exploring
-- TypeScript and advanced debugging
-- Ethical and secure gaming alternatives
-- Freelancing platforms like Fiverr & Upwork
+- GSAP and advanced Three.js animations
+- AI integrations
+- Gatsby.js
 
 ###
 
@@ -96,9 +94,5 @@ I'm a passionate **Front-end Software Engineer** from Lahore, Pakistan 🇵🇰 
   <img src="https://streak-stats.demolab.com?user=m-abubakr1&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-abubakr1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/m-abubakr1/m-abubakr1/output/snake.svg" alt="Snake animation" />
 
 ###
