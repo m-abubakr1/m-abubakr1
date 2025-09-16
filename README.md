@@ -2,19 +2,19 @@
 
 ###
 
-# 👋 Hi, I'm Muhammad Abubakr
+# Salam! Hi, I'm Muhammad Abubakr
 
 Frontend isn’t just code—it’s the layer where your brand meets your users.  
 I build fast, accessible, and scalable web experiences using modern tools and smart architecture.
 
-## 🚀 What I Do
+## What I Do
 - React.js, Next.js, TypeScript, Tailwind CSS
 - CMS builds with WordPress, Webflow, Framer, Shopify
 - Animations via Framer Motion, GSAP, Three.js
 - API integrations, SSR, SEO, and accessibility baked in
 - Deployment-ready workflows with GitHub, Vercel, Netlify
 
-## 🎯 Philosophy
+## Philosophy
 I don’t overload projects—I build with purpose.  
 Every tool I use is chosen to make your product perform better and feel complete.
 
